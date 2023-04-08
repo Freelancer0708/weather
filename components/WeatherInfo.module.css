@@ -1,0 +1,15 @@
+.weatherInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5rem;
+  }
+  
+  .weatherInfo h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .weatherInfo p {
+    margin: 0.2rem;
+  }
+  
